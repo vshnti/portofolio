@@ -29,6 +29,7 @@ nav{
         font-size: 1.2rem;
         color: black;
         text-transform: capitalize;
+        font-weight: 600;
     }
 }
 }
@@ -37,7 +38,7 @@ nav{
         font-size: 1.5rem;
         color: black;
 span{
-    color: aquamarine;
+    color: brown;
 }
     }
 }
@@ -115,4 +116,11 @@ a{
 }
 }
     }
+}
+
+body{
+    background-color: black;
+    background-image: url(image/background.jpg);
+    background-size: cover;
+    
 }
